@@ -1,0 +1,80 @@
+{
+  "home": {
+    "greeting": "Welcome to My Portfolio",
+    "intro": "I'm an experienced Front End Developer skilled in creating dynamic, user-friendly web applications. Let's explore my work!",
+    "name": "Your Name",
+    "summary": "Passionate about leveraging modern web technologies to enhance user experiences. Let's connect to explore collaboration opportunities!",
+    "projects": [
+    {
+      "id": 1,
+      "name": "Development Bank of Singapore Limited",
+      "description": "Translated design mockups and wireframes into high-quality, reusable code using HTML, CSS, and JavaScript. Developed responsive and interactive user interfaces, ensuring optimal user experience across different devices and browsers. Implemented frontend components using frameworks such as React.js, leveraging its concepts and ecosystem for efficient development.",
+      "link": "https://www.dbs.com/in/index/default.page"
+    },
+    {
+      "id": 2,
+      "name": "Ministry of Health, Singapore",
+      "description": "Led the development and maintenance of critical applications. Implemented upgrades to frameworks, servers, and components to enhance system efficiency. Conducted comprehensive data analysis to improve accessibility and SEO for key applications.",
+      "link": "https://www.moh.gov.sg/"
+    },
+    {
+      "id": 3,
+      "name": "Wipro Limited, Chennai",
+      "description": "Worked on various projects involving frontend and backend development, collaborating with cross-functional teams to deliver high-quality solutions.",
+      "link": "https://mywipro.wipro.com/Home"
+    }
+  ]
+  },
+  "about": {
+    "description": "Experienced Front End Developer skilled in creating dynamic, user-friendly web applications. Proven track record in delivering high-quality projects in fast-paced environments.",
+    "skills": [
+      {
+        "category": "Technologies",
+        "items": ["HTML5", "CSS3", "JavaScript", "TypeScript", "ReactJS", "Redux", "Bootstrap"]
+      },
+      {
+        "category": "Tools",
+        "items": ["Git", "Bitbucket", "SVN", "Eclipse", "VS Code"]
+      },
+      {
+        "category": "Backend",
+        "items": ["Spring", "Hibernate", "MySQL", "RESTful APIs"]
+      },
+      {
+        "category": "Testing",
+        "items": ["Jest", "Unit Testing", "JMeter"]
+      },
+      {
+        "category": "Platforms",
+        "items": ["Windows", "Linux", "Mac OS"]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Development Bank of Singapore Limited",
+        "description": "Developed and maintained critical applications using advanced technologies."
+      },
+      {
+        "company": "Ministry of Health, Singapore",
+        "description": "Led system upgrades and improved application SEO and accessibility."
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.E. in Mechanical Engineering",
+        "institution": "SNS College of Engineering",
+        "score": "84%"
+      }
+    ],
+    "certifications": [
+      "Oracle, SQL - Wipro Internship",
+      "JavaScript - Udemy",
+      "ReactJS, Bootstrap - MySkills-Z"
+    ]
+  },
+  "contact": {
+    "email": "gokulakrish23gk@gmail.com",
+    "phone": "9487435083",
+    "address": "shollinganallur chennai"
+  }
+}
